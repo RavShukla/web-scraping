@@ -8,4 +8,6 @@ web-scraping-functions/
 │    ├── saver.py           # Save data to CSV/JSON
 │── examples/
      ├── scrape_quotes.py   # Example: scrape quotes.toscrape.com
+
+     
      ├── scrape_books.py    # Example: scrape books.toscrape.com
